@@ -1,0 +1,8 @@
+[package]
+
+name = "romannum"
+version = "0.0.1"
+authors = ["J. Aaron Gustafson <jag426@cornell.edu>"]
+
+[dependencies]
+peg = "*"
