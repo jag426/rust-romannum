@@ -1,4 +1,4 @@
-#![feature(core, plugin)]
+#![feature(core, int_uint, plugin)]
 #![plugin(peg_syntax_ext)]
 
 pub fn parse_string(n: String) -> Option<u64> {
